@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ben Woods, FCAS
+title: Ben Woods, FCAS
 
 # Username (this should match the folder name)
 authors:
